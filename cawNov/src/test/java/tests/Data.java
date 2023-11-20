@@ -15,8 +15,6 @@ public class Data
 		return s;
 		
 	}
-
-
 }
 
 
