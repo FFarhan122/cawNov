@@ -15,15 +15,7 @@ public class Data
 		return s;
 		
 	}
-	public static String expected()
-	{
-		 exp = "Bob,20,male,"
-				+ "George,42,male,"
-				+ "Sara,42,female,"
-				+ "Conor,40,male,"
-				+ "Jennifer,42,female,";
-		return exp;
-	}
+
 
 }
 
